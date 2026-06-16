@@ -1,4 +1,4 @@
-<h1>Homepage</h1>
+<h1>Pagina 2</h1>
 <nav>
     <a href="/">Home</a>
     <a href="/pagina1">Pagina 1</a>
